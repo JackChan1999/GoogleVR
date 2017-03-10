@@ -43,7 +43,7 @@
 
 # **2. 全景图片显示**
 
-<img src="http://img.blog.csdn.net/20170310000634587?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXhpMjk1MzA5MDY2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="400" /> <img src="http://img.blog.csdn.net/20170310000825855?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXhpMjk1MzA5MDY2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="400" />
+<img src="https://github.com/JackChen1999/Android_Node/tree/master/assets/VrPanorama1.png" width="400" /> <img src="https://github.com/JackChen1999/Android_Node/tree/master/assets/VrPanorama2.png" width="400" />
 
 ## **2.1 搭建vr全景图片的开发环境**
 
