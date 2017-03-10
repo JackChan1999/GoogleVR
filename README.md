@@ -1,5 +1,11 @@
 # Google VR全景图片与视频功能开发详解
 
+<img src="./art/VrPanorama3.jpg" width="300" /> <img src="./art/VrPanorama4.jpg" width="300" /> <img src="./art/VrPanorama5.jpg" width="300" />
+
+<img src="./art/VrPanorama3.jpg" width="300" /> <img src="./art/VrPanorama4.jpg" width="300" />
+
+<img src="./art/VrPanorama5.jpg" width="300" /> <img src="./art/VrPanorama6.jpg" width="300" />
+
 # **1. VR开发概述**
 时下关于“谷歌、Android与VR”的各种言论纷飞。VR群里有人在争论Android VR是不是一体机，是不是类似Android Wear、为VR打造的全新平台，是不是改良后的Android N。
 
