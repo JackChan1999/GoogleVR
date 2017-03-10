@@ -43,7 +43,7 @@
 
 # **2. 全景图片显示**
 
-<img src="./art/VrPanorama1.jpg" width="400" /> <img src="./art/VrPanorama2.jpg" width="400" />
+<img src="./art/VrPanorama1.jpg" width="300" /> <img src="./art/VrPanorama2.jpg" width="300" />
 
 ## **2.1 搭建vr全景图片的开发环境**
 
@@ -351,7 +351,7 @@ public class MainActivity extends AppCompatActivity {
 
 # **3. 全景视频显示开发**
 
-<img src="http://img.blog.csdn.net/20170310001154807?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXhpMjk1MzA5MDY2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="400" /> <img src="http://img.blog.csdn.net/20170310001243953?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXhpMjk1MzA5MDY2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="400" />
+<img src="./art/VrVideo1.jpg" width="300" /> <img src="./art/VrVideo2.jpg" width="300" />
 
 ## **3.1 vr视频环境搭建**
 - 导入需要的三个库 common,comonwidget.videowiget
